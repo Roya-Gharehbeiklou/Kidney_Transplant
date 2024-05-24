@@ -38,7 +38,7 @@ Libraries needed:
 
 ## Authors
 Roya Gharehbeiklou
-r.gharehbeiklou@st.hanze.nl
+gharehbeiklou.r@gmail.com
 
 ## License
 Copyright [2023] [GNU]
